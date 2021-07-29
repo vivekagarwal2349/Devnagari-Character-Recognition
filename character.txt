@@ -1,0 +1,5 @@
+List of character set on which the model is trained:
+क, घ, च, ठ, ड, थ, द, न, र, ल, ष, स, ह, क्ष, त्र, ज्ञ
+
+link to the dataset used for training:
+https://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset#:~:text=UCI%20Machine%20Learning%20Repository%3A%20Devanagari%20Handwritten%20Character%20Dataset%20Data%20Set&text=Abstract%3A%20This%20is%20an%20image,and%20testing%20set(15%25).
