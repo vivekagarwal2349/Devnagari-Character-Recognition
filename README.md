@@ -1,1 +1,1 @@
-# Devnagari-Letter-Recognition
+# Devnagari-Character-Recognition
